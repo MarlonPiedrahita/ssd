@@ -1,0 +1,11 @@
+.principal{
+    color: blue;
+    font-size: 50px;
+    /* background-color: red; */
+    
+}
+
+.titulos{
+    display: flex;
+    margin-left: 470px;
+}
